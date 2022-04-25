@@ -1,5 +1,22 @@
 ### Hi there 👋
 
+# Myungwoo-Nam
+
+
+안녕하세요.
+
+- Name : 남명우
+- Email : myungwoo0221@gmail.com
+- Education : 
+   - Korea University
+   - University of California, Los Angeles
+
+
+
+
+
+
+
 <!--
 **mnam102/mnam102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
