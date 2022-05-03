@@ -6,7 +6,6 @@
 안녕하세요.
 
 - Name : 남명우
-- Email : myungwoo0221@gmail.com
 - Education : 
    - Korea University
    - University of California, Los Angeles
@@ -24,15 +23,21 @@
    
 - [Dacon]  *AI 기반 회의 녹취록 요약 경진대회* - top 3% **(13/430)** [[overview](https://dacon.io/competitions/official/235813/overview/description)]
 
-  
+
+[MAIC] *SNUH Voice AI CHallenge ver.1* -2nd placed 
+
 Here is [my dacon profile page](https://dacon.io/myprofile/230684/competition). Check out my detailed achievements on dacon.
 
 
 ## Tools & Languages
-<code><img title="Python" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img title="Python" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
+
+</code>
 <code><img title="Git and Github" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
 <code><img title="Jupyter Notebooks and Lab" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
 
+<code><img title="Jupyter Notebooks and Lab" height="20" src="https://user-images.githubusercontent.com/41610472/166422386-19eb66be-be20-4eb1-bcff-1bf3ed34f956.svg"></code>
 
 
 
