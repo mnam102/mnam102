@@ -25,14 +25,13 @@
 - [Dacon]  *AI 기반 회의 녹취록 요약 경진대회* - top 3% **(13/430)** [[overview](https://dacon.io/competitions/official/235813/overview/description)]
 
 
-Here is [my dacon profile page](https://dacon.io/myprofile/230684/competition). Check out my detailed achievements on dacon.
+
 
 <div align=center>
- 
- 
 
+   [![Dacon Badge](https://img.shields.io/badge/-Dacon-blue?style=flat-square&logo=dacon&logoColor=white&link=https://dacon.io/myprofile/230684/competition/)](https://dacon.io/myprofile/230684/competition/)
 
-
+</div>
 
 
 ## Tools & Languages
