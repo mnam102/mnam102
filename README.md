@@ -31,14 +31,25 @@ Here is [my dacon profile page](https://dacon.io/myprofile/230684/competition). 
 
 ## Tools & Languages
 <code><img title="Python" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
-
+<code><img title="Pytorch" height="20" src="https://user-images.githubusercontent.com/41610472/166422386-19eb66be-be20-4eb1-bcff-1bf3ed34f956.svg"></code>
+   
+<code><img title="Sklearn" height="20" src="https://user-images.githubusercontent.com/41610472/166422627-8d9f9f5d-7f87-47b8-bc43-12e5c76b4148.svg"></code>
+   
+   <code><img title="keras" height="20" src="https://user-images.githubusercontent.com/41610472/166422502-892ce190-c9ab-4f36-bc2e-126802e861bf.svg"></code>
+   
+      <code><img title="tensorflow" height="20" src="https://user-images.githubusercontent.com/41610472/166422672-19e11b6a-de3c-4912-b8de-ad5ff13cd559.svg"></code>
+   
+   
+   
 </code>
 <code><img title="Git and Github" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 <code><img title="Jupyter Notebooks and Lab" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
 
-<code><img title="Jupyter Notebooks and Lab" height="20" src="https://user-images.githubusercontent.com/41610472/166422386-19eb66be-be20-4eb1-bcff-1bf3ed34f956.svg"></code>
+![tensorflow](https://user-images.githubusercontent.com/41610472/166422672-19e11b6a-de3c-4912-b8de-ad5ff13cd559.svg)
 
+
+![keras](https://user-images.githubusercontent.com/41610472/166422627-8d9f9f5d-7f87-47b8-bc43-12e5c76b4148.svg)
 
 
 
