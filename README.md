@@ -13,7 +13,7 @@
 
 <div align=center>
    
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)](https://www.linkedin.com/in/myungwoo-nam-6523a5157/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white](https://www.linkedin.com/in/myungwoo-nam-6523a5157/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:affjljoo3581@gmail.com)](mailto:myungwoo0221@gmail.com)
 </div>
 
@@ -28,8 +28,9 @@
 Here is [my dacon profile page](https://dacon.io/myprofile/230684/competition). Check out my detailed achievements on dacon.
 
 <div align=center>
-   
-[![Dacon Badge](https://user-images.githubusercontent.com/41610472/166427814-18acb0c1-89a2-4f71-912e-74526459203e.png)
+ 
+   [![Dacon Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white](https://dacon.io/myprofile/230684/competition)
+[![Dacon Badge](https://user-images.githubusercontent.com/41610472/166427814-18acb0c1-89a2-4f71-912e-74526459203e.png)(https://dacon.io/myprofile/230684/competition)
 </div>
 
 
