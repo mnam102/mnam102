@@ -19,28 +19,10 @@
 </div>
 
 
-<div align=center>
-
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://zzsza.github.io/) 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)](https://www.linkedin.com/in/seong-yun-byeon-8183a8113/) 
-[![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/c/kyleschool)](https://www.youtube.com/c/kyleschool) 
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/zzsza)](https://www.facebook.com/zzsza) 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/data.scientist/)](https://www.instagram.com/data.scientist/) 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:snugyun01@gmail.com)
-</div>
 
 ### 🏆 AI competitions
    
-
-
-- 데이터 분석 대회
-  |대회|대회명|순위|상위|
-  |---|------|----|----|
-  |Dacon|AI 기반 회의 녹취록 요약 경진대회|13/430|3%|
-  |Dacon|2021 Ego-Vision 손동작 인식 AI 경진대회|11/290|3%|
-
-
-- *AI 기반 회의 녹취록 요약 경진대회* - top 3% **(13/430)** [[overview](https://dacon.io/competitions/official/235813/overview/description)]
+- |Dacon| *AI 기반 회의 녹취록 요약 경진대회* - top 3% **(13/430)** [[overview](https://dacon.io/competitions/official/235813/overview/description)]
 
   
 Here is [my dacon profile page](https://dacon.io/myprofile/230684/competition). Check out my detailed achievements on dacon.
