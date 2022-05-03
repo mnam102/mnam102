@@ -24,7 +24,7 @@
   |Dacon|2021 Ego-Vision 손동작 인식 AI 경진대회|11/290|3%|
 
 
-- *AI 기반 회의 녹취록 요약 경진대회* - **1st placed (13/430)** [[overview](https://dacon.io/competitions/official/235813/overview/description)]
+- *AI 기반 회의 녹취록 요약 경진대회* - top 3% ** (13/430)** [[overview](https://dacon.io/competitions/official/235813/overview/description)]
 
   
 Here is [my dacon profile page](https://dacon.io/myprofile/230684/competition). Check out my detailed achievements on dacon.
