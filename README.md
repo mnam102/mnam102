@@ -11,6 +11,7 @@
    - Korea University
    - University of California, Los Angeles
 
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:affjljoo3581@gmail.com)](mailto:myungwoo0221@gmail.com)
 
 
 ### 🏆 AI competitions
