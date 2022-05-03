@@ -15,11 +15,12 @@
 
 ### 🏆 AI competitions
  |---|------|----|----|
-  |Dacon|AI 기반 회의 녹취록 요약 경진대회|13/430|3%|
-  |Dacon|2021 Ego-Vision 손동작 인식 AI 경진대회|11/290|3%|
+ |Dacon|AI 기반 회의 녹취록 요약 경진대회|13/430|3%|
+ |Dacon|2021 Ego-Vision 손동작 인식 AI 경진대회|11/290|3%|
 
   
-  
+Here is [my dacon profile page](https://dacon.io/myprofile/230684/competition). Check out my detailed achievements on dacon.
+
 
 
 
