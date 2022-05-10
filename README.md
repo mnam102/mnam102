@@ -20,7 +20,8 @@
 
 
 ### 🏆 AI competitions
- 
+-
+   -
   |대회|대회명|순위|상위|링크|
   |---|------|----|----|----|
   |MAIC|*SNUH Voice AI CHallenge ver.1*|**2nd placed (2/43)**|4%| [[overview](https://maic.or.kr/competitions/10/infomation)] |
