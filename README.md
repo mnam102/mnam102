@@ -24,8 +24,8 @@
 
 - [Dacon]  *AI 기반 회의 녹취록 요약 경진대회* - top 3% **(13/430)** [[overview](https://dacon.io/competitions/official/235813/overview/description)]
   
-  |대회|대회명|순위|상위|
-  |---|------|----|----|
+  
+  |---|------|----|----|----|
   |MAIC|*SNUH Voice AI CHallenge ver.1*|**2nd placed (2/43)**|41%|[[overview](https://maic.or.kr/competitions/10/infomation)]|
   |Dacon|퇴근 시간 버스승차인원 예측 경진대회|32/258|12%|
   |Dacon|원자력발전소 상태 판단 경진대회|11/192|5%|
