@@ -22,7 +22,7 @@
 ### 🏆 AI competitions 
 
   |대회|대회명|순위|기간|링크|
-  |:---:|:------:|:----:|:----:|:----:|:----:|
+  |:---:|:------:|:----:|:----:|:----:|
   |MAIC|*SNUH Voice AI CHallenge ver.1*|**2nd placed<br>(2/43)**|2021.09.20 ~ 2021.12.22|[[overview](https://maic.or.kr/competitions/10/infomation)] |
   |Dacon|  *생육 환경 최적화 경진대회* |**(?/430)**| 2022.04.18 ~ 2022.05.20| [[overview](https://dacon.io/competitions/official/235897/overview/description)] |
   |Dacon|  *Computer Vision 이상치 탐지 알고리즘 경진대회* |**(?/?)**| 2022.04.18 ~ 2022.05.20| [[overview](https://dacon.io/competitions/official/235894/overview/description)] |
