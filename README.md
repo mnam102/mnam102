@@ -23,12 +23,12 @@
 
   |대회|대회명|순위|상위|링크|
   |:---:|:------:|:----:|:----:|:----:|
-  |MAIC|*SNUH Voice AI CHallenge ver.1*|**2nd placed (2/43)**|4%| [[overview](https://maic.or.kr/competitions/10/infomation)] |
-  |Dacon|  *AI 기반 회의 녹취록 요약 경진대회* |**(13/430)**| top 3%| [[overview](https://dacon.io/competitions/official/235813/overview/description)] |
-  |Dacon|  *작물 병해 분류 AI 경진대회* |**(15/170)**| top 3%| [[overview](https://dacon.io/competitions/official/235813/overview/description)] |
-  |Dacon|  *2021 Ego-Vision 손동작 인식 AI 경진대회* |**(11/290)**| top 3%| [[overview](https://dacon.io/competitions/official/235813/overview/description)] |
-  |Dacon|  *생육 환경 최적화 경진대회* |**(?/430)**| top ?%| [[overview](https://dacon.io/competitions/official/235813/overview/description)] |
+  |MAIC|*SNUH Voice AI CHallenge ver.1*|**2nd placed \n (2/43)**|4%| [[overview](https://maic.or.kr/competitions/10/infomation)] |
+  |Dacon|  *생육 환경 최적화 경진대회* |**(?/430)**| top ?%| [[overview](https://dacon.io/competitions/official/235897/overview/description)] |
   |Dacon|  *Computer Vision 이상치 탐지 알고리즘 경진대회* |**(?/?)**| top ?%| [[overview](https://dacon.io/competitions/official/235894/overview/description)] |
+  |Dacon|  *AI 기반 회의 녹취록 요약 경진대회* |**(13/430)**| top 3%| [[overview](https://dacon.io/competitions/official/235813/overview/description)] |
+  |Dacon|  *작물 병해 분류 AI 경진대회* |**(15/170)**| top 3%| [[overview](https://dacon.io/competitions/official/235842/overview/description)] |
+  |Dacon|  *2021 Ego-Vision 손동작 인식 AI 경진대회* |**(11/290)**| top 3%| [[overview](https://dacon.io/competitions/official/235805/overview/description)] |
   |Dacon|  *천체 유형 분류 대회* |**(13/352)**| top ?%| [[overview](https://dacon.io/competitions/official/235573/overview/description)] |
   |Dacon|  *주차수요 예측 AI 경진대회* |**(181/503)**| top 3%| [[overview](https://dacon.io/competitions/official/235745/overview/description)] |
 
