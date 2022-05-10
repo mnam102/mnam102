@@ -21,10 +21,10 @@
 
 ### 🏆 AI competitions
 -
-  |---|------|----|----|
   |Dacon|금융문자 분석 경진대회|153/372|41%|
   |Dacon|퇴근 시간 버스승차인원 예측 경진대회|32/258|12%|
-  
+  |---|------|----|----|
+
 - 
   |MAIC|*SNUH Voice AI CHallenge ver.1*|**2nd placed (2/43)**|41%| [[overview](https://maic.or.kr/competitions/10/infomation)] |
   |Dacon|  *AI 기반 회의 녹취록 요약 경진대회* |**(13/430)**| top 3%| [[overview](https://dacon.io/competitions/official/235813/overview/description)] |
