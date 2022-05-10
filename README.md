@@ -26,11 +26,11 @@
   |MAIC|*SNUH Voice AI CHallenge ver.1*|**2nd placed<br>(2/43)**|2021.09.20 ~ 2021.12.22|[[overview](https://maic.or.kr/competitions/10/infomation)] |
   |Dacon|  *생육 환경 최적화 경진대회* |**(?/430)**| 2022.04.18 ~ 2022.05.20| [[overview](https://dacon.io/competitions/official/235897/overview/description)] |
   |Dacon|  *Computer Vision 이상치 탐지 알고리즘 경진대회* |**(?/?)**| 2022.04.18 ~ 2022.05.20| [[overview](https://dacon.io/competitions/official/235894/overview/description)] |
-  |Dacon|  *AI 기반 회의 녹취록 요약 경진대회* |**(13/430)**|2021.09.27 ~ 2021.10.25| [[overview](https://dacon.io/competitions/official/235813/overview/description)] |
   |Dacon|  *작물 병해 분류 AI 경진대회* |**(15/170)**| 2021.10.13 ~ 2021.10.22 | [[overview](https://dacon.io/competitions/official/235842/overview/description)] |
+  |Dacon|  *AI 기반 회의 녹취록 요약 경진대회* |**(13/430)**|2021.09.27 ~ 2021.10.25| [[overview](https://dacon.io/competitions/official/235813/overview/description)] |
   |Dacon|  *2021 Ego-Vision 손동작 인식 AI 경진대회* |**(11/290)**| 2021.09.15 ~ 2021.10.14| [[overview](https://dacon.io/competitions/official/235805/overview/description)] |
-  |Dacon|  *천체 유형 분류 대회* |**(13/352)**|2020.02.01 ~ 2020.02.29| [[overview](https://dacon.io/competitions/official/235573/overview/description)] |
   |Dacon|  *주차수요 예측 AI 경진대회* |**(181/503)**| 2021.06.10 ~ 2021.07.30| [[overview](https://dacon.io/competitions/official/235745/overview/description)] |
+  |Dacon|  *천체 유형 분류 대회* |**(13/352)**|2020.02.01 ~ 2020.02.29| [[overview](https://dacon.io/competitions/official/235573/overview/description)] |
 
   
   
