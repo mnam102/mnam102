@@ -19,7 +19,7 @@
 
 
 
-### 🏆 AI competitions
+### 🏆 AI competitions  [![Dacon Badge](https://img.shields.io/badge/-Dacon-blue?style=flat-square&logo=dacon&logoColor=white&link=https://dacon.io/myprofile/230684/competition/)](https://dacon.io/myprofile/230684/competition/)
 
   |대회|대회명|순위|상위|기간|링크|
   |:---:|:------:|:----:|:----:|:----:|:----:|
