@@ -23,7 +23,10 @@
 
   |대회|대회명|순위|상위|링크|
   |:---:|:------:|:----:|:----:|:----:|
-  |MAIC|*SNUH Voice AI CHallenge ver.1*|**2nd placed \n (2/43)**|4%| [[overview](https://maic.or.kr/competitions/10/infomation)] |
+  |MAIC|*SNUH Voice AI CHallenge ver.1*|**2nd placed **|4%| [[overview](https://maic.or.kr/competitions/10/infomation)] |
+  |    |                               | **(2/43) **   |  |                                                             |
+
+  
   |Dacon|  *생육 환경 최적화 경진대회* |**(?/430)**| top ?%| [[overview](https://dacon.io/competitions/official/235897/overview/description)] |
   |Dacon|  *Computer Vision 이상치 탐지 알고리즘 경진대회* |**(?/?)**| top ?%| [[overview](https://dacon.io/competitions/official/235894/overview/description)] |
   |Dacon|  *AI 기반 회의 녹취록 요약 경진대회* |**(13/430)**| top 3%| [[overview](https://dacon.io/competitions/official/235813/overview/description)] |
