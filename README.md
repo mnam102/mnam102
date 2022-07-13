@@ -31,7 +31,6 @@
   |Dacon|  *천체 유형 분류 대회* |**(13/352)**|2020.02.01 ~ 2020.02.29| [[overview](https://dacon.io/competitions/official/235573/overview/description)] |
   |Dacon|  *생육 환경 최적화 경진대회* |**(73/97)**| 2022.04.18 ~ 2022.05.20| [[overview](https://dacon.io/competitions/official/235897/overview/description)] |
   |Dacon|  *Computer Vision 이상치 탐지 알고리즘 경진대회* |**(77/481)**| 2022.04.18 ~ 2022.05.20| [[overview](https://dacon.io/competitions/official/235894/overview/description)] |
-  |Dacon|  *음향 데이터 COVID-19 검출 AI 경진대회* |**(?/?)**|  2022.05.31 ~ 2022.07.08| [[overview](https://dacon.io/competitions/official/235910/overview/description)] |
 
   
   
